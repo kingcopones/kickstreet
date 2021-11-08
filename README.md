@@ -1,1 +1,1 @@
-# kickstreetFlutter
+# kickstreet (M-Commerce App using Flutter)
